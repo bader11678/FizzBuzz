@@ -4,6 +4,7 @@
 class FizzBuzz {
 
     public static void main(String[] args) {
+        // initializing
         int i = 1;
         while (i < 100) {
 
